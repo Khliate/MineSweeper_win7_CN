@@ -1,4 +1,4 @@
-# MineSweeper_win7_CN (Win7 风格扫雷中文版)
+# MineSweeper_win7_CN Win7风格扫雷中文版
 
 ![License](https://img.shields.io/github/license/Khliate/MineSweeper_win7_CN)
 ![Language](https://img.shields.io/badge/language-Chinese-red)
