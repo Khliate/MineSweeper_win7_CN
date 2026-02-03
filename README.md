@@ -19,14 +19,14 @@
 * **智能操作**：支持鼠标左右键双击（Chording）快速开启周围方块。
 * **统计功能**：(如果是功能之一) 记录最佳时间和胜率。
 
-## 🛠️ 安装与运行 (Installation & Usage)
+## 安装与运行 (Installation & Usage)
 
-### 方式一：下载可执行文件 (推荐)
+### I.下载可执行文件 
 1. 进入本仓库的 [Releases](../../releases) 页面。
 2. 下载最新的 `.exe` 或压缩包文件。
 3. 解压后直接运行 `MineSweeper.exe` 即可开始游戏。
 
-### 方式二：从源码编译 (Build from Source)
+### II.从源码编译 (Build from Source)
 
 如果你是开发者并希望修改代码，请按以下步骤操作：
 
@@ -36,7 +36,7 @@
 * 语言/框架：[例如：C# / .NET Framework 4.7.2 或 C++ / Qt]
 
 **构建步骤：**
-1. 克隆本仓库：
+ 克隆本仓库：
    ```bash
    git clone [https://github.com/Khliate/MineSweeper_win7_CN.git](https://github.com/Khliate/MineSweeper_win7_CN.git)
 
